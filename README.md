@@ -1,0 +1,1 @@
+# arrays-sum-of-main-diagonal
